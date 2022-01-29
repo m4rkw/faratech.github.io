@@ -1,0 +1,104 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link rel="stylesheet" type="text/css" href="/css/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="ipt" />
+    <link rel="preconnect" href="https://fonts.googleapis.com"> 
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;600;700&display=swap" rel="stylesheet">
+    <script src="/js/jquery.min.js"></script>
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+    <title>Faratech Ltd</title>
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrapper">
+        <div class="grid--full">
+          <div class="grid-item large--one-half">
+            <div class="h1 header-logo">
+              <a href="/">
+                <img src="/images/logo2.png" width="305px" />
+              </a>
+            </div>
+          </div>
+          <div class="grid-item large--one-half text-center large--text-right">
+            <div class="header-text-right">
+              <p>experts you can trust</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+    <nav class="nav-bar" role="navigation">
+      <div class="wrapper">
+        <ul class="mobile-nav">
+        </ul>
+        <ul class="site-nav">
+          <li>
+            <a href="/" class="site-nav--link">Home</a>
+          </li>
+          <li>
+            <a href="/company-ethos" class="site-nav--link">Company ethos</a>
+          </li>
+          <li>
+            <a href="/custom-pcs" class="site-nav--link">Custom PCs</a>
+          </li>
+          <li>
+            <a href="/contact" class="site-nav--link">Contact</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+    <div class="wrapper main-content" role="main">
+            <div class="feature-row">
+        <div class="feature-row__text">
+          <h2>Privacy policy</h2>
+          <div class="rte featured-row__subtext">
+            <p>Our privacy policy is very simple - we will never share your personal information with any third party unless you have given us express written permission to do so and it is necessary in order for us to provide our services.</p>
+            <p>If you are returning a machine to us for warranty service we will normally ask that you remove any personal data from the machine beforehand.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="shopify-section footer-section">
+      <footer class="site-footer small--text-center">
+        <div class="wrapper">
+          <div class="grid">
+            <div class="grid-item small--one-whole one-quarter">
+              <p>
+                Faratech Ltd<br/>
+                12 Litchfield Avenue<br/>
+                Morden<br/>
+                Surrey<br/>
+                SM4 5QS<br/>
+                United Kingdom
+              </p>
+            </div>
+            <div class="grid-item small--one-whole one-quarter">
+              <ul>
+                <li><a href="/terms-and-conditions">Terms and conditions</a></li>
+                <li><a href="/privacy-policy">Privacy policy</a></li>
+              </ul>
+            </div>
+            <div class="grid-item small--one-whole one-half">
+              <h3>Get in touch</h3>
+              <ul>
+                <li><a href="https://twitter.com/FaratechLtd">Twitter</a></li>
+                <li><a href="/contact">Email</a></li>
+              </ul>
+            </div>
+          </div>
+          <hr class="hr--small"/>
+          <div class="grid">
+            <div class="grid-item large--two-fifths">
+              <ul class="legal-links inline-list">
+                <li>© 2022 Faratech Ltd</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

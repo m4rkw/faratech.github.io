@@ -1,0 +1,123 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link rel="stylesheet" type="text/css" href="/css/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="ipt" />
+    <link rel="preconnect" href="https://fonts.googleapis.com"> 
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;600;700&display=swap" rel="stylesheet">
+    <script src="/js/jquery.min.js"></script>
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+    <title>Faratech Ltd</title>
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrapper">
+        <div class="grid--full">
+          <div class="grid-item large--one-half">
+            <div class="h1 header-logo">
+              <a href="/">
+                <img src="/images/logo2.png" width="305px" />
+              </a>
+            </div>
+          </div>
+          <div class="grid-item large--one-half text-center large--text-right">
+            <div class="header-text-right">
+              <p>experts you can trust</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+    <nav class="nav-bar" role="navigation">
+      <div class="wrapper">
+        <ul class="mobile-nav">
+        </ul>
+        <ul class="site-nav">
+          <li>
+            <a href="/" class="site-nav--link">Home</a>
+          </li>
+          <li>
+            <a href="/company-ethos" class="site-nav--link">Company ethos</a>
+          </li>
+          <li>
+            <a href="/custom-pcs" class="site-nav--link">Custom PCs</a>
+          </li>
+          <li>
+            <a href="/contact" class="site-nav--link">Contact</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+    <div class="wrapper main-content" role="main">
+            <div class="feature-row">
+        <div class="feature-row__text">
+          <h2>Custom PC builds</h2>
+          <div class="rte featured-row__subtext">
+            <p>We think personal computers should be just that - personal. Our bespoke PC building service aims to get right to the heart of what you want from a computer and to then realise that vision for you for the lowest overall cost.</p>
+
+            <p>If you don't really know what you want that's fine too - we can ask the right questions and work with you to figure it out together. We're not pushy and we'll never try to sell you something unsuitable. If the budget you have in mind isn't realistic for what you want to achieve we'll tell you straight away, we'd rather lose a sale than have you buy something that you won't be happy with.</p>
+
+            <p>Once we've agreed on a specification we take a 20% deposit from you and begin the build. Our build process is:</p>
+
+            <ul>
+              <li>Carefully inspect the components as delivered</li>
+              <li>Apply thermal compound evenly to the CPU heatsink</li>
+              <li>Assemble the components in the case, taking care to keep the cabling as tidy as possible</li>
+              <li>Power on and verify basic operation of the system</li>
+              <li>Optimise the BIOS settings for best performance</li>
+              <li>Install the requested operating systems and all available updates</li>
+              <li>Install any available manufacturer BIOS updates</li>
+              <li>Carry out overclocking configuration (if requested)</li>
+              <li>Execute extensive and thorough stability and thermal management tests to ensure 100% system stability</li>
+              <li>Install any requested custom software and/or configuration</li>
+              <li>Finally once we're happy with the build we ship it to you to enjoy</li>
+            </ul>
+
+            <p>For a free quote please <a href="/contact">contact us</a> with your requirements</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="shopify-section footer-section">
+      <footer class="site-footer small--text-center">
+        <div class="wrapper">
+          <div class="grid">
+            <div class="grid-item small--one-whole one-quarter">
+              <p>
+                Faratech Ltd<br/>
+                12 Litchfield Avenue<br/>
+                Morden<br/>
+                Surrey<br/>
+                SM4 5QS<br/>
+                United Kingdom
+              </p>
+            </div>
+            <div class="grid-item small--one-whole one-quarter">
+              <ul>
+                <li><a href="/terms-and-conditions">Terms and conditions</a></li>
+                <li><a href="/privacy-policy">Privacy policy</a></li>
+              </ul>
+            </div>
+            <div class="grid-item small--one-whole one-half">
+              <h3>Get in touch</h3>
+              <ul>
+                <li><a href="https://twitter.com/FaratechLtd">Twitter</a></li>
+                <li><a href="/contact">Email</a></li>
+              </ul>
+            </div>
+          </div>
+          <hr class="hr--small"/>
+          <div class="grid">
+            <div class="grid-item large--two-fifths">
+              <ul class="legal-links inline-list">
+                <li>© 2022 Faratech Ltd</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>
